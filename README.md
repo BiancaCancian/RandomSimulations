@@ -12,5 +12,5 @@
 - Matplotlib: Biblioteca de visualização de dados em Python, permitindo a criação de gráficos.
 - Random: Biblioteca para gerar números aleatórios.
 
-## Grafico de Frequência 
+## Grafico de Frequência da simulação proposta:
 ![grafico_aleatorio](https://github.com/user-attachments/assets/dc2005ce-d3de-4b35-9b88-3e42dbf83a2d)
