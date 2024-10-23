@@ -14,3 +14,15 @@
 
 ## Grafico de Frequência da simulação proposta:
 ![grafico_aleatorio](https://github.com/user-attachments/assets/dc2005ce-d3de-4b35-9b88-3e42dbf83a2d)
+
+## Metodo Proposto:
+- Solver que é um programa complementar do excel para ser usado em análise de hipóteses.
+
+### Objetivo:
+- O solver é otimo para encontrar um valor ótimo (Maximo ou Minimo) para uma fórmula em uma célula, chamada célula objetiva.
+
+### Funcionamento:
+- Solver trabalha com um grupo de células, chamadas variáveis ​​de decisão ou simplesmente células variáveis
+ ​​que são usadas no cálculo das fórmulas nas células objetivas e de restrição. O Solver ajusta os valores nas 
+ células de variáveis ​​de decisão para satisfazer os limites nas células de restrição e produzir o resultado desejado 
+ para a célula objetiva.
